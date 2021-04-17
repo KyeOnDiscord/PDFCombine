@@ -1,11 +1,11 @@
 C:\Users\ProMa\source\repos\PDFCombine\bin\Debug\PDFCombine.exe.config
 C:\Users\ProMa\source\repos\PDFCombine\bin\Debug\PDFCombine.exe
 C:\Users\ProMa\source\repos\PDFCombine\bin\Debug\PDFCombine.pdb
-C:\Users\ProMa\source\repos\PDFCombine\bin\Debug\PdfSharp.Charting.dll
-C:\Users\ProMa\source\repos\PDFCombine\bin\Debug\PdfSharp.dll
 C:\Users\ProMa\source\repos\PDFCombine\obj\Debug\PDFCombine.csproj.CoreCompileInputs.cache
-C:\Users\ProMa\source\repos\PDFCombine\obj\Debug\PDFCombine.csproj.CopyComplete
 C:\Users\ProMa\source\repos\PDFCombine\obj\Debug\PDFCombine.exe
 C:\Users\ProMa\source\repos\PDFCombine\obj\Debug\PDFCombine.pdb
 C:\Users\ProMa\source\repos\PDFCombine\obj\Debug\PDFCombine.Properties.Resources.resources
 C:\Users\ProMa\source\repos\PDFCombine\obj\Debug\PDFCombine.csproj.GenerateResource.cache
+C:\Users\ProMa\source\repos\PDFCombine\bin\Debug\PdfSharp.Charting.dll
+C:\Users\ProMa\source\repos\PDFCombine\bin\Debug\PdfSharp.dll
+C:\Users\ProMa\source\repos\PDFCombine\obj\Debug\PDFCombine.csproj.CopyComplete
